@@ -55,7 +55,6 @@ def main():
     print(str(pokemonList[0].namn) + " attackerar med " +str(pokemonList[0].attackDmg()) + " Attack" )
     print(str(pokemonList[0].namn) + " har " +str(pokemonList[0].health()) + " HP" )
     # print(pokemonList[0])
-    # hej
     # herregud
 
 main()
